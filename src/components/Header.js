@@ -14,7 +14,7 @@ export default function Header() {
     <header className="bg-black text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <Link to="/" className="flex items-center space-x-2">
+          <Link to="/travelquest" className="flex items-center space-x-2">
             <Plane className="h-8 w-8 text-orange-500" />
             <span className="text-2xl font-bold">TravelQuest</span>
           </Link>
