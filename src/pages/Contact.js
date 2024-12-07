@@ -19,9 +19,9 @@ export default function Contact() {
             <h2 className="text-2xl font-semibold mb-4">Get in Touch</h2>
             <p className="mb-4">We'd love to hear from you. Whether you have a question about our trips, need help with booking, or want to share your travel experience, our team is ready to assist you.</p>
             <div className="space-y-2">
-              <p><strong>Email:</strong> info@travelquest.com</p>
-              <p><strong>Phone:</strong> +1 (555) 123-4567</p>
-              <p><strong>Address:</strong> 123 Adventure Ave, Wanderlust City, TX 12345, USA</p>
+              <p><strong>Email:</strong> patelrushi9293@gmail.com </p>
+              <p><strong>Phone:</strong> +91 7802833723 </p>
+              <p><strong>Address:</strong> morbi, gujarat, india</p>
             </div>
           </div>
           <form onSubmit={handleSubmit} className="space-y-4">
