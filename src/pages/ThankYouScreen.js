@@ -8,7 +8,7 @@ export default function ThankYouScreen() {
       <div className="text-center">
         <h1 className="text-4xl font-bold mb-4">Thank You for Your Booking!</h1>
         <p className="mb-8 text-xl">Your adventure awaits. We've sent a confirmation email with all the details.</p>
-        <Link to="/">
+        <Link to="/travelquest">
           <Button className="bg-orange-500 hover:bg-orange-600 text-white">
             Return to Home
           </Button>
