@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/travelquest/static/css/main.01de753c.css",
-    "main.js": "/travelquest/static/js/main.b2035858.js",
+    "main.js": "/travelquest/static/js/main.2a315db7.js",
     "index.html": "/travelquest/index.html",
     "main.01de753c.css.map": "/travelquest/static/css/main.01de753c.css.map",
-    "main.b2035858.js.map": "/travelquest/static/js/main.b2035858.js.map"
+    "main.2a315db7.js.map": "/travelquest/static/js/main.2a315db7.js.map"
   },
   "entrypoints": [
     "static/css/main.01de753c.css",
-    "static/js/main.b2035858.js"
+    "static/js/main.2a315db7.js"
   ]
 }
